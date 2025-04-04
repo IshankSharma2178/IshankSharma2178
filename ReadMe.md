@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a passionate web developer from India, always exploring new technologies.<br>👯 👯 I’m looking to collaborate on innovative projects and open-source contributions.<br>🌱 I’m currently diving deep into Generative AI and its integration with web development.<br>💬 Ask me anything about web development, MERN stack, or AI in web apps!<br>
+🔭 I’m a passionate web developer from India, always exploring new technologies.<br>👯 👯 I’m looking to collaborate on innovative projects and open-source contributions.<br>🌱 I’m currently diving deep into Generative AI and its integration with web development.<br>💬 Ask me anything about web development!<br>
 
 
 ## 🌐 Socials:
